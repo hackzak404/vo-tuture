@@ -30,6 +30,14 @@ header .logo {
     cursor: pointer;
 }
 
+
+header .logoA {
+    position: relative;
+    max-width: 200px;
+    cursor: pointer;
+}
+
+
 .conteneur{
     position: relative;
     width: 100%;
@@ -132,4 +140,52 @@ header .logo {
     font-weight: 600;
     letter-spacing: 3px;
 
+}
+
+.input {
+    width: 350px;
+    position: relative;
+    left: 350px;
+    top: -12px;
+    padding: 15px;
+    margin: 30px;
+}
+
+.ul {
+    color: white;
+    position: relative;
+    top: -50px;
+    left: 470px;
+}
+
+.eE {
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 317px;
+}
+
+.eS {
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 330px;
+}
+.eA {
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 330px;
+}
+.eT {
+    color: white;
+    position: relative;
+    top: 50px;
+    left: 250px;
+}
+
+.a {
+    position: relative;
+    left: 1100px;
+    top: 200px;
 }
