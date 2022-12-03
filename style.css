@@ -117,3 +117,19 @@ header .logo {
     background:#fff;
     clip-path: circle(700px at right 400px);
 }
+
+.tl {
+    position: relative;
+    left: 300px;
+    padding: 30;
+    position: relative;
+    max-width: 150px;
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    color: snow;
+    border-radius: 100px;
+    font-weight: 600;
+    letter-spacing: 3px;
+
+}
