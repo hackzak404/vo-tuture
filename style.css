@@ -129,7 +129,7 @@ header .logoA {
 .tl {
     position: relative;
     left: 300px;
-    padding: 30;
+    padding: 30px;
     position: relative;
     max-width: 150px;
     display: inline-block;
@@ -148,7 +148,7 @@ header .logoA {
     left: 350px;
     top: -12px;
     padding: 15px;
-    margin: 30px;
+    margin: 8px;
 }
 
 .ul {
@@ -161,31 +161,31 @@ header .logoA {
 .eE {
     color: white;
     position: relative;
-    top: 50px;
-    left: 317px;
+    top: 30px;
+    left: 305px;
 }
 
 .eS {
     color: white;
     position: relative;
-    top: 50px;
-    left: 330px;
+    top: 30px;
+    left: 318px;
 }
 .eA {
     color: white;
     position: relative;
-    top: 50px;
-    left: 330px;
+    top: 30px;
+    left: 328px;
 }
 .eT {
     color: white;
     position: relative;
-    top: 50px;
-    left: 250px;
+    top: 30px;
+    left: 230px;
 }
 
 .a {
     position: relative;
     left: 1100px;
-    top: 200px;
+    top: 150px;
 }
