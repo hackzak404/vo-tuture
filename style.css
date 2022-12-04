@@ -189,3 +189,28 @@ header .logoA {
     left: 1100px;
     top: 150px;
 }
+
+.reseau {
+    position: absolute;
+    top: 50%;
+    right: 30px;
+    transform: translateY(-50%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.reseau li {
+    list-style: none;
+}
+
+.reseau li a {
+    display: inline-block;
+    margin: 5px;
+    transform: scale(0.6);
+}
+
+.reseau li img {
+    max-width: 50px;
+}
